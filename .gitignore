@@ -1,0 +1,6 @@
+*.o
+.qmake.stash
+*.pro.user
+cpuburn
+Makefile*
+release/
